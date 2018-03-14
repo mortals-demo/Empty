@@ -2,7 +2,8 @@
 project:
   name: "Empty"
   version: "0.1"
-  featureId: null
+  featureId:
+  - "aa94cd6e-5058-446d-a589-1a75f2558369"
   status:
     title: "Draft"
     details: null
